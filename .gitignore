@@ -1,0 +1,15 @@
+# Binários
+bin/
+dist/
+/neuryxctl
+
+# Testes
+*.test
+*.out
+coverage.*
+
+# Editores
+*.swp
+*~
+.vscode/
+.idea/
